@@ -39,8 +39,17 @@ button{
 }
 div{
   width:500px;
-  height:30px;
   padding:2px;
 }
-
+/* span{
+  background-color: #0070f3;
+  font-size:12px;
+  padding:3px;
+  border-radius:10px;
+  margin-left:30px;
+} */
+p.left{
+  text-align: left;
+  max-width:500px;
+}
 `
